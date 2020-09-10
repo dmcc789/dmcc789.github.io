@@ -8,9 +8,10 @@
 }
 
 
-
-font-family: 'Cantarell', sans-serif;
-font-family: 'Francois One', sans-serif;
+.linkclass {
+    color: #3d4f48;
+    
+}
 
 
 .sansserif {
