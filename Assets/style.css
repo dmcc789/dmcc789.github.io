@@ -1,17 +1,24 @@
+
+/* background green color */
 .background {
     background-color: #6e8f82;
 }
+
+/* google font that is used in various places through out */
 
 .dcheader {
     font-family: 'Cantarell', sans-serif;
     
 }
 
+/* I used the below to change the default blue color of the card links */
 
 .linkclass {
     color: #3d4f48;
     
 }
+
+/* I used the below class for styling the basic form components */
 
 .contactstyle {
     background-color: blanchedalmond;
@@ -19,4 +26,3 @@
     margin-top: 50px;
 }
 
-  
