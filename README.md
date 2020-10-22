@@ -1,6 +1,6 @@
 Deirdre Cruice Cabanel -- Portfolio Assignment
 
-# dmcc789.github.io
+# https://dmcc789.github.io/ 
 
 For this assignment I have utilized the Bootstrap CSS Framework in order to create a mobile responsive portfolio site.  
 
