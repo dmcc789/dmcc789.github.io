@@ -1,4 +1,4 @@
-Deirdre Cruice Cabanel -- Portfolio Assignment
+Deirdre Cruice Cabanel -- Portfolio 
 
 # https://dmcc789.github.io/ 
 
